@@ -1,0 +1,67 @@
+Name: Pablo the alien
+Description: Pablo is an alien from Jupiter. He has magical powers of controlling moon phases. He does not like the heat.
+Average length (in feet): 2
+Average height: 8
+Location/Origin: Jupiter
+Is it a dangerous creature? (Y or N): N
+How many hours do you spend caring for ablo the alien?
+Hours: 20
+
+What is the cost per hour for caring for ablo the alien?
+Cost per hour: 100
+
+How much money do you spend on food for the ablo the alien?
+Food Cost: 100
+How much money do you spend on food/supplies for ablo the alien?
+Supplies cost: 100
+
+Name: Jake the dragon
+Description: Jake is a dragon from an island. He enjoys fire and hot stuff. He does not like the cold. 
+Average length (in feet): 20
+Average height: 40
+Location/Origin: Europe
+Is it a dangerous creature? (Y or N): Y
+How many hours do you spend caring for ake the dragon?
+Hours: 24
+
+What is the cost per hour for caring for ake the dragon?
+Cost per hour: 60
+
+How much money do you spend on food for the ake the dragon?
+Food Cost: 600
+How much money do you spend on food/supplies for ake the dragon?
+Supplies cost: 600
+
+Name: Hermione's horse
+Description: Large magical horse from an island in the Bahamas. This horse has healing powers and has wings to fly through the sky.
+Average length (in feet): 8
+Average height: 9
+Location/Origin: Bahamas
+Is it a dangerous creature? (Y or N): N
+How many hours do you spend caring for ermione's horse?
+Hours: 24
+
+What is the cost per hour for caring for ermione's horse?
+Cost per hour: 80
+
+How much money do you spend on food for the ermione's horse?
+Food Cost: 90
+How much money do you spend on food/supplies for ermione's horse?
+Supplies cost: 100
+
+Name: Bigfoot
+Description: Tall man-like creature that has a big foot. This creature does not like to have pictures taken of him and he prefers to be alone. He enjoys the wilderness.
+Average length (in feet): 2
+Average height: 9
+Location/Origin: Mountains
+Is it a dangerous creature? (Y or N): N
+How many hours do you spend caring for igfoot?
+Hours: 0
+
+What is the cost per hour for caring for igfoot?
+Cost per hour: 0
+
+How much money do you spend on food for the igfoot?
+Food Cost: 0
+How much money do you spend on food/supplies for igfoot?
+Supplies cost: 0
